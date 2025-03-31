@@ -3,6 +3,8 @@
 ![.NET Version](https://img.shields.io/badge/.NET-6.0%2B-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+![ezgif-43300025a0078f](https://github.com/user-attachments/assets/b7c7621b-76d8-4910-bcd8-3a5f25d1a0cb)
+
 A high-performance tool to scan directories and verify file integrity with parallel processing, checksum validation, and corruption detection.
 
 ## Features ✨
