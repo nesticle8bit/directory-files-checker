@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DirectoryFilesChecker.Console": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
